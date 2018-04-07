@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GuOshiro/tddJs/issues"
   },
-  "homepage": "https://github.com/GuOshiro/tddJs#readme"
+  "homepage": "https://github.com/GuOshiro/tddJs#readme",
+  "dependencies": {
+    "gitignore": "^0.6.0"
+  }
 }
