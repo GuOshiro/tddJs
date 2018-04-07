@@ -1,0 +1,19 @@
+{
+  "name": "tddjs",
+  "version": "1.0.0",
+  "description": "Lib TDD na Pratica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuOshiro/tddJs.git"
+  },
+  "author": "Gustavo Oshiro <gustavoaoshiro@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuOshiro/tddJs/issues"
+  },
+  "homepage": "https://github.com/GuOshiro/tddJs#readme"
+}
